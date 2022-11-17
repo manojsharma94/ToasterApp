@@ -1,0 +1,195 @@
+{
+  "project_info": {
+    "project_number": "424083430427",
+    "firebase_url": "https://locauditappnew.firebaseio.com",
+    "project_id": "locauditappnew",
+    "storage_bucket": "locauditappnew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424083430427:android:8639e630366716076a6cbe",
+        "android_client_info": {
+          "package_name": "com.company.locad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424083430427-1c9p5r5ph4khskkfv0rqv78m020d1s37.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.locad",
+            "certificate_hash": "dd96c53ff35a05a187e86242a6b2b7b2e8530d95"
+          }
+        },
+        {
+          "client_id": "424083430427-p9lc939s7leqs5feqfenopkno4b80j48.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.locad",
+            "certificate_hash": "f785c3b326a5f0d1f4db5c2d2fb9a46cad542295"
+          }
+        },
+        {
+          "client_id": "424083430427-kpj3ejem7smjblh37j6ua1mls83ua844.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZcK5frKwWn60ZnOLxRdZ4QUCXs2NxWjM"
+        },
+        {
+          "current_key": "AIzaSyDpyOiJVgVvp5__rttfGWdp5HleWU9uSSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424083430427-kpj3ejem7smjblh37j6ua1mls83ua844.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424083430427:android:9c7dad1735be2aac6a6cbe",
+        "android_client_info": {
+          "package_name": "net.locad.locauditondemand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424083430427-3i3c2kp0op3afaned8qr3jqs1jv547e8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.locad.locauditondemand",
+            "certificate_hash": "b3e95fbdffc488772fd1e3bb61f7cdd12ab9e326"
+          }
+        },
+        {
+          "client_id": "424083430427-h3nno3k6kbrefk3gebj0n1agigi78hjv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.locad.locauditondemand",
+            "certificate_hash": "f785c3b326a5f0d1f4db5c2d2fb9a46cad542295"
+          }
+        },
+        {
+          "client_id": "424083430427-jrj9oee6m3mg26ki051r72cu75d8q7vj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.locad.locauditondemand",
+            "certificate_hash": "dd96c53ff35a05a187e86242a6b2b7b2e8530d95"
+          }
+        },
+        {
+          "client_id": "424083430427-kpj3ejem7smjblh37j6ua1mls83ua844.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZcK5frKwWn60ZnOLxRdZ4QUCXs2NxWjM"
+        },
+        {
+          "current_key": "AIzaSyDpyOiJVgVvp5__rttfGWdp5HleWU9uSSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424083430427-kpj3ejem7smjblh37j6ua1mls83ua844.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424083430427:android:0e2031743406b383",
+        "android_client_info": {
+          "package_name": "net.locad.screenoplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424083430427-roj3gebm2sv4tjam8lukk2nf7gtd1dfl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.locad.screenoplayer",
+            "certificate_hash": "7832fc6061295b735ffce81f410b58fd5188a188"
+          }
+        },
+        {
+          "client_id": "424083430427-kpj3ejem7smjblh37j6ua1mls83ua844.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZcK5frKwWn60ZnOLxRdZ4QUCXs2NxWjM"
+        },
+        {
+          "current_key": "AIzaSyDpyOiJVgVvp5__rttfGWdp5HleWU9uSSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424083430427-kpj3ejem7smjblh37j6ua1mls83ua844.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424083430427:android:552951fd7f2a14c2",
+        "android_client_info": {
+          "package_name": "net.locad.screenoupdater12032019"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424083430427-od015908pe601i8vnh98mdbk7fr5h488.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.locad.screenoupdater12032019",
+            "certificate_hash": "7832fc6061295b735ffce81f410b58fd5188a188"
+          }
+        },
+        {
+          "client_id": "424083430427-kpj3ejem7smjblh37j6ua1mls83ua844.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZcK5frKwWn60ZnOLxRdZ4QUCXs2NxWjM"
+        },
+        {
+          "current_key": "AIzaSyDpyOiJVgVvp5__rttfGWdp5HleWU9uSSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424083430427-kpj3ejem7smjblh37j6ua1mls83ua844.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
