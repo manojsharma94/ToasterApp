@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:424083430427:android:8639e630366716076a6cbe",
         "android_client_info": {
-          "package_name": "com.company.locad"
+          "package_name": "com.kot.Toaster"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "424083430427-1c9p5r5ph4khskkfv0rqv78m020d1s37.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.company.locad",
+            "package_name": "com.kot.Toaster",
             "certificate_hash": "dd96c53ff35a05a187e86242a6b2b7b2e8530d95"
           }
         },
@@ -26,7 +26,7 @@
           "client_id": "424083430427-p9lc939s7leqs5feqfenopkno4b80j48.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.company.locad",
+            "package_name": "com.kot.Toaster",
             "certificate_hash": "f785c3b326a5f0d1f4db5c2d2fb9a46cad542295"
           }
         },
@@ -58,7 +58,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:424083430427:android:9c7dad1735be2aac6a6cbe",
         "android_client_info": {
-          "package_name": "net.locad.locauditondemand"
+          "package_name": "com.kot.Toaster"
         }
       },
       "oauth_client": [
@@ -66,7 +66,7 @@
           "client_id": "424083430427-3i3c2kp0op3afaned8qr3jqs1jv547e8.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "net.locad.locauditondemand",
+            "package_name": "com.kot.Toaster",
             "certificate_hash": "b3e95fbdffc488772fd1e3bb61f7cdd12ab9e326"
           }
         },
@@ -74,7 +74,7 @@
           "client_id": "424083430427-h3nno3k6kbrefk3gebj0n1agigi78hjv.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "net.locad.locauditondemand",
+            "package_name": "com.kot.Toaster",
             "certificate_hash": "f785c3b326a5f0d1f4db5c2d2fb9a46cad542295"
           }
         },
@@ -82,7 +82,7 @@
           "client_id": "424083430427-jrj9oee6m3mg26ki051r72cu75d8q7vj.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "net.locad.locauditondemand",
+            "package_name": "com.kot.Toaster",
             "certificate_hash": "dd96c53ff35a05a187e86242a6b2b7b2e8530d95"
           }
         },
