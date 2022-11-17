@@ -11,7 +11,11 @@ import io.nlopez.smartlocation.location.providers.LocationGooglePlayServicesWith
 public class Toaster {
     public static void Toasting(Context context,String msg){
 
+        Toast.makeText(context,msg,Toast.LENGTH_LONG).show();
 
+
+    }
+    public static void getcurrentlocatin(Context context){
         SmartLocation.with(context)
                 .location(new LocationGooglePlayServicesWithFallbackProvider(context))
                 .oneFix()
@@ -19,7 +23,7 @@ public class Toaster {
                     @Override
                     public void onLocationUpdated(Location location) {
                         Toast.makeText(context,String.valueOf(location.getLatitude())+ String.valueOf(location.getLongitude()),Toast.LENGTH_LONG).show();
-                       // onLocationFetchFinished.onFinished(String.valueOf(location.getLatitude()), String.valueOf(location.getLongitude()));
+                        // onLocationFetchFinished.onFinished(String.valueOf(location.getLatitude()), String.valueOf(location.getLongitude()));
                     }
                 });
     }
